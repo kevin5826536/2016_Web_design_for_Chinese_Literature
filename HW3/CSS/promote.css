@@ -1,0 +1,110 @@
+.navbar-default {
+    border-width: 0;
+    background: rgba(255, 255, 255, 0.6);
+    padding-top: 10px;
+}
+
+.navbar-default .navbar-brand {
+    color: #333;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #333;
+}
+
+.navbar-default .navbar-text {
+    color: #666;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #666;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #3399f3;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #888;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #dddddd;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #3399f3;
+}
+
+.bar-title {
+    font-size: 30px;
+}
+
+.top-option li {
+    font-size: 15px;
+}
+
+.bottom-bar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 35px;
+    background-color: #ededed;
+}
+
+.bottom-header {
+    margin: 5px;
+    padding-left: 30px;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+
+.question {
+    text-align: center;
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 20px;
+    padding-bottom: 20px;
+}
+
+.article {
+    margin-top: 100px;
+}
+
+p {
+    font-size: 20px;
+}
+
+body {
+    background-color: snow;
+}
+
+.article {
+    margin-top: 0;
+}
+
+@media (min-width: 768px) {
+    .list {
+        margin: 100px;
+    }
+}
+
+.list {
+    margin-top: 100px;
+}
+
+.post {
+    text-align: center;
+    padding: 30px;
+}
+
+.people {
+    max-height: 50vh;
+}
+
+.peo {
+    text-align: center;
+}
